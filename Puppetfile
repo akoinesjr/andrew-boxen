@@ -62,3 +62,4 @@ github "xquartz",     "1.2.1"
 # https://github.com/boxen.
 
 github "sysctl",      "1.0.1"
+github "postgresql",  "3.0.2"
