@@ -1,0 +1,4 @@
+---
+# Use default ports for databases
+mysql::config::port: 3306
+postgresql::port: 5432
